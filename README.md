@@ -54,7 +54,7 @@ O espaço é um ambiente inóspito onde a latência de comunicação e a impossi
     
    
 🔗 Acesso à Aplicação
-Acesse o Dashboard Interativo Hospedado no Streamlit Cloud
+Acesse o Dashboard Interativo Hospedado no Streamlit Cloud: https://generative-ai-global-solution-20261-rjuvsl6gn5tajzgt4afvtg.streamlit.app/
 
 Projeto desenvolvido por:
 
