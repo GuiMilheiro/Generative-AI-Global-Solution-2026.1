@@ -1,0 +1,21 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+__pycache__/
+pycache/
+
+# Arquivos do Sistema e VS Code
+.idea/
+*.swp
+*.swo
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#Logs e arquivos temporários
+
+*.log
+.cache/
