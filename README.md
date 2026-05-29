@@ -28,7 +28,7 @@ O espaço é um ambiente inóspito onde a latência de comunicação e a impossi
 ### Configuração
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [https://github.com/GuiMilheiro/Generative-AI-Global-Solution-2026.1](https://github.com/GuiMilheiro/Generative-AI-Global-Solution-2026.1)
    ```
 2. Configure o ambiente virtual e instale as dependências:
    ```bash
